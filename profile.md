@@ -5,7 +5,7 @@
 
 [![Github](https://img.shields.io/github/followers/iamrraj?label=Follow&style=social)](https://github.com/maypy)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tax-tune.herokuapp.com)
-[![YouTube](https://youtube.com/)](https://www.youtube.com/channel/UCbFpiitUZRMgS_xp2fJa0tQ)
+[![YouTube](https://www.youtube.com/channel/UCbFpiitUZRMgS_xp2fJa0tQ)](https://www.youtube.com/channel/UCbFpiitUZRMgS_xp2fJa0tQ)
 
 
 
