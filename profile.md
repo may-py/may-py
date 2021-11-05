@@ -20,7 +20,7 @@ I am now employed as a Finance Controller, and I have a 10-year history in finan
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img height="50" src="https://img.icons8.com/color/144/000000/react-native.png"/></code>
+<code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" class="themedImage_Ir0T themedImage--light_2_E0 navbar__logo"></code?
 
 
 
