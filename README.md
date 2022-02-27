@@ -9,7 +9,7 @@
 ## About me 
 I'm not a coder; I'm a finance professional. I began my programming adventure in early 2019 using Python in order to improve my financial data analysis skills. After studying the fundamentals of Python, I realized that I needed to understand webframeworks and began with Django. I'm a Data Scientist and Machine Learning enthusiast.
 
-I am now employed as a Finance Controller, and I have a 10-year history in financial reporting.
+Currently, I am employed as a Finance Professional, and I have a 11-year history in financial reporting.
 
 
 ## Stack I work with
