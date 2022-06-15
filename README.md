@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/may-py?label=Follow&style=social)](https://github.com/may-py)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tax-tune.herokuapp.com)
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbFpiitUZRMgS_xp2fJa0tQ?style=social)](https://www.youtube.com/channel/UCbFpiitUZRMgS_xp2fJa0tQ)
-[!](https://komarev.com/ghpvc/?username=may-py&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=may-py&color=orange&style=flat-square)
 
 
 
