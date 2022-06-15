@@ -2,9 +2,10 @@
 
 [![Github](https://img.shields.io/github/followers/may-py?label=Follow&style=social)](https://github.com/may-py)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tax-tune.herokuapp.com)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbFpiitUZRMgS_xp2fJa0tQ?style=social)
-<!-- ![Github Profile Views]<p align="left"> <img src="https://komarev.com/ghpvc/?username=may-py-13&label=Profile%20views&color=0e75b6&style=flat" alt="may-py" /> </p> -->
-![Github Profile Views](https://komarev.com/ghpvc/?username=may-py-13&label=Profile%20views&color=0e75b6&style=flat)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCbFpiitUZRMgS_xp2fJa0tQ?style=social)](https://www.youtube.com/channel/UCbFpiitUZRMgS_xp2fJa0tQ)
+[!Github Profile Views](https://komarev.com/ghpvc/?username=may-py-13&label=Profile%20views&color=0e75b6&style=flat)
+
+
 
 
 
