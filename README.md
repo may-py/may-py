@@ -27,6 +27,7 @@ Currently, I am employed as a Finance Professional, and I have a 11-year history
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img height="50" src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" alt="React Native" class="themedImage_Ir0T themedImage--light_2_E0 navbar__logo"><b class="themedImage_Ir0T themedImage--light_2_E navbar__title">React Native</b></code>
+<code><img height="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 
 
