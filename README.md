@@ -23,13 +23,13 @@ Currently, I am employed as a Finance Professional, and I have a 12-year history
 
 ## Stack I work with
 
-<code><img height="50" width="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-<code><img height="50" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
+<code><img height="50" width="150" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" width="150" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
+<code><img height="50" width="150" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code> 
 <code>
-  <img height="50" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img height="50" width="150" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </code>
-<code><img height="50" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+<code><img height="50" width="150" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
 
 
 
